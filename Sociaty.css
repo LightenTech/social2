@@ -1,0 +1,108 @@
+body{
+    background: url('image/wallpaperflare.com_wallpaper\ \(4\).jpg') fixed;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    scroll-behavior: smooth;
+}
+
+.awl{
+    margin-top: 50px; color: white;
+}
+
+.divkbeer{
+    justify-items: center;
+    justify-self: center;
+    align-items: center;
+    align-self: center;
+    display: grid;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    text-align: center;
+    animation-name: sora;
+animation-duration: 3s;
+}
+
+.imag1{
+
+animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+height: 500px;
+border-radius: 200px;
+overflow: hidden;
+}
+
+@keyframes sora {
+    50%{
+        transform: translateY(-50px);
+        
+        
+    }
+    100%{
+        transform: translateY(50);
+    }
+}
+
+.divso8er{
+    display: flex;
+}
+
+
+.shm{
+    text-align: center;
+    padding: 5px;
+    transition-property: width background-color text;
+    text-decoration: none;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    margin-right: 20px  ;
+    align-content: center;
+    text-transform: uppercase;
+    transition-duration: 0.5s;
+    margin: 20px;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    color: white; font-size: 0px;
+    border-radius: 100%;
+
+}
+
+.shm:hover{
+color: black;
+font-size: larger;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+border-radius: 10px;
+width: 300px;
+background-color: #e07a5f ;
+}
+
+
+.icons{
+    margin: 10px; 
+    color:rgb(68, 0, 132)
+}
+
+.nhya{
+    text-align: center; font-size: 9px; margin: 100px;
+}
+
+.awlklmna{
+    max-width: 700px; font-size: 30px;  color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-wrap: balance;
+}
+
+.bain1{
+    color: #eecc8c; font-weight: bold; margin-left: 10px; font-size: 35px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.bain2{
+    color: #eecc8c; margin-left: 10px
+}
